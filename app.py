@@ -16,7 +16,7 @@ if not api_key:
 client = Groq(api_key=api_key)
 
 # Set page configuration
-st.set_page_config(page_title="PeakSolution-GPT", page_icon="🤖", layout="centered")
+st.set_page_config(page_title="Sik-GPT", page_icon="🤖", layout="centered")
 
 # Custom CSS for premium look and typing animation
 st.markdown("""
