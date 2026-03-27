@@ -57,7 +57,7 @@ st.markdown("""
     </style>
     """, unsafe_allow_html=True)
 
-st.title("PeakSolution-GPT")
+st.title("Sik-GPT")
 
 # Sidebar for model selection
 with st.sidebar:
